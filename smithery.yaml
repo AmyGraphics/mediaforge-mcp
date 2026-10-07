@@ -1,0 +1,19 @@
+name: mediaforge-mcp
+displayName: MediaForge - Video Scripts, YouTube SEO & SRT MCP
+description: Universal video production & content engine for Cursor, Claude & Windsurf. Generates viral TikTok/Shorts scripts with 0-3s retention hooks, YouTube SEO packages with clickable timestamps, parses and converts SRT/VTT subtitles, and writes podcast show notes.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/mediaforge-mcp
+repository: https://github.com/AmyGraphics/mediaforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/mediaforge-mcp/main/icon.png
+keywords:
+  - youtube-seo
+  - video-script
+  - viral-hooks
+  - srt-subtitles
+  - tiktok-reels
+  - podcast-notes
+  - cursor
+  - claude
+startCommand:
+  type: http
+  url: https://mediaforge-api.agentweb-hub.workers.dev/mcp

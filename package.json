@@ -1,0 +1,9 @@
+{
+  "name": "mediaforge-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous Video Scripting, YouTube SEO & SRT Subtitle Engine MCP for Cursor, Claude Code, and Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
